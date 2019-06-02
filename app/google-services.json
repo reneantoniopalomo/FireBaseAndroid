@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "145342183722",
+    "firebase_url": "https://fir-android-c545f.firebaseio.com",
+    "project_id": "fir-android-c545f",
+    "storage_bucket": "fir-android-c545f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145342183722:android:cba47f0bbb11b26f",
+        "android_client_info": {
+          "package_name": "com.example.firebaseandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145342183722-h2faramf9b2c2f58e2agtvilv7pd9s4g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAth9eoHNlf1jJay0PoLezUIa4dDDAxC4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "145342183722-h2faramf9b2c2f58e2agtvilv7pd9s4g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
